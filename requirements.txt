@@ -1,0 +1,19 @@
+# Project Libraries -----------------------------------------------------------
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+pandas>=1.1.0  # Data manipulation and analysis
+numpy>=1.23.5  # Numerical operations
+h5py>=3.1.0  # HDF5 file handling
+glob2>=0.7  # Unix style pathname pattern expansion
+matplotlib>=3.3.0  # Plotting library
+tensorflow>=2.4.0  # Deep learning framework
+
+# Additional Libraries -------------------------------------------------------
+# sklearn>=0.24.0  # Machine learning library
+# opencv-python>=4.5.0  # Computer vision library
+# pillow>=8.0.0  # Image processing library
+# requests>=2.25.1  # HTTP library for Python
+
+# Deployment -------------------------------------------------------------------
+# google-colab>=1.0.0  # Google Colab integration
